@@ -1,0 +1,11 @@
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp2\obj\Debug\WindowsApp2.pdb
