@@ -1,0 +1,11 @@
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\karab\AppData\Local\Temporary Projects\WindowsApp3\obj\Debug\WindowsApp3.pdb
