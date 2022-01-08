@@ -1,0 +1,9 @@
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-6\bin\Debug\7-1-6.exe
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-6\bin\Debug\7-1-6.pdb
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-6\bin\Debug\7-1-6.xml
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-6\obj\x86\Debug\_7_1_7.frmAverage.resources
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-6\obj\x86\Debug\_7_1_7.Resources.resources
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-6\obj\x86\Debug\7-1-6.vbproj.GenerateResource.Cache
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-6\obj\x86\Debug\7-1-6.exe
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-6\obj\x86\Debug\7-1-6.xml
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-6\obj\x86\Debug\7-1-6.pdb
