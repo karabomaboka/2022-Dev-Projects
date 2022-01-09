@@ -1,0 +1,9 @@
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-7\bin\Debug\7-1-7.exe
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-7\bin\Debug\7-1-7.pdb
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-7\bin\Debug\7-1-7.xml
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-7\obj\x86\Debug\_7_1_8.frmStates.resources
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-7\obj\x86\Debug\_7_1_8.Resources.resources
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-7\obj\x86\Debug\7-1-7.vbproj.GenerateResource.Cache
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-7\obj\x86\Debug\7-1-7.exe
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-7\obj\x86\Debug\7-1-7.xml
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-1-7\obj\x86\Debug\7-1-7.pdb
