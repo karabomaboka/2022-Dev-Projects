@@ -1,0 +1,27 @@
+Harvard U.,MA,1636
+William and Mary,VA,1693
+Yale U.,CT,1701
+U. of Pennsylvania,PA,1740
+Moravian College,PA,1742
+U. of Delaware,DE,1743
+Princeton U.,NJ,1746
+Wash. and Lee U.,VA,1749
+Columbia U.,NY,1754
+Brown U.,RI,1764
+Rutgers College,NJ,1766
+Dartmouth College,NH,1769
+Dickinson College,PA,1773
+Hampton-Sydney,VA,1776
+Wash. & Jefferson,PA,1781
+Washington Col.,MD,1782
+U. of Georgia,GA,1785
+U. of Pittsburgh,PA,1787
+Georgetown U.,DC,1789
+U. of Vermont,VT,1791
+Williams College,MA,1793
+Bowdoin College,ME,1794
+U. of Tennessee,TN,1794
+U. of N. Carolina,NC,1795
+Union College,NY,1795
+Hartwick College,NY,1797
+U. of Louisville,KY,1798
