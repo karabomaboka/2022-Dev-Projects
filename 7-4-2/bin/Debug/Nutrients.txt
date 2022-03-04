@@ -1,0 +1,5 @@
+﻿calories
+protein (grams)
+fat (grams)
+vitamin A (IU)
+calcium (mg)
